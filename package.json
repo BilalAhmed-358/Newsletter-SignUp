@@ -1,0 +1,16 @@
+{
+  "name": "newslettersingup",
+  "version": "1.0.0",
+  "description": "This project will take email addresses from users and add it in a mailchimp list, which'll enable us to create our first email list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilal Ahmed Khan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
